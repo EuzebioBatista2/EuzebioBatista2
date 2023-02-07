@@ -12,11 +12,9 @@
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista2&show_icons=true&bg_color=00000000" />
  
-<img width="200px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact" /> 
  
  <!-- gráfico das contribuições --> 
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EuzebioBatista2&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- badges, com trofeu --> 
 <p align="center">
