@@ -12,15 +12,15 @@
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista&show_icons=true&bg_color=00000000" />
  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> 
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> 
  
  <!-- gráfico das contribuições --> 
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EuzebioBatista&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EuzebioBatista2&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- badges, com trofeu --> 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EuzebioBatista&theme=onedark&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EuzebioBatista2&theme=onedark&column=3" />
 </p> 
 
  <!-- redes sociais e profissional -->
