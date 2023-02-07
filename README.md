@@ -12,7 +12,7 @@
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista2&show_icons=true&bg_color=00000000" />
  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> 
+<img width="200px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" /> 
  
  <!-- gráfico das contribuições --> 
  
