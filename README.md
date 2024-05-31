@@ -2,7 +2,11 @@
  
  <!-- Barra superior e inferior --> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-<div align="center"> Abaixo você encontra mais informações sobre meus repositórios e contribuições aqui no Github. </div>
+<div align="center" font-size="10px"> 
+	Abaixo você encontra mais informações sobre meus repositórios e contribuições aqui no Github. 
+</div>
+
+<br/>
 
 <!-- Mensagem automática -->  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Euzebio+Batista;I'm+Full+stack+web+developer;I'm+from+Brazil;I'm+studying+ADS(higher);Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -12,6 +16,8 @@
    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuzebioBatista2&theme=transparent&layout=compact" /> 
    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=EuzebioBatista2&show_icons=true&bg_color=00000000" />
 </div>
+
+<br/>
 
 <!-- gráfico de commits --> 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EuzebioBatista2&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
