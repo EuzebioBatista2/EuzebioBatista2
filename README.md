@@ -23,7 +23,7 @@
        <img src="https://github-profile-trophy.vercel.app/?username=EuzebioBatista2&theme=onedark&column=9" />
    </div> 
    <!-- redes sociais e profissional -->
-   <div align="center" margin:"20px"> 
+   <div> 
       <a href="https://instagram.com/euzebio_batista2" target="_blank">
          <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
       </a>
